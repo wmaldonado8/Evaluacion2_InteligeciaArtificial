@@ -68,6 +68,7 @@ Con todas las variables mostradas anteriormente, el presente trabajo tiene como 
 |Stacking|24.9981 %|
 |Vote|24.9981 %|
 |Weightedlnstances Handler Wrapper|24.9981 %|
+
 <a name="t1">Tabla 1: Prueba de algoritmos con dataset<a>
 
 Cuando se trabaja con un problema de aprendizaje automático, como en este caso, no se puede saber de antemano qué algoritmo será el mejor por ello: 
@@ -79,4 +80,5 @@ Como se puede apreciar en la [Tabla 1](#t1) se probó la clasificación con el d
 
 ## 3.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
+
 [2] <a name="c2">J. Brownlee, «How to Use Machine Learning Algorithms in Weka». 15 de julio de 2016. [En línea]. Disponible en: [https://machinelearningmastery.com/use-machine-learning-algorithms-weka/](https://machinelearningmastery.com/use-machine-learning-algorithms-weka/)</a>
