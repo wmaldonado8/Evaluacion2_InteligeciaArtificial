@@ -75,10 +75,19 @@ Cuando se trabaja con un problema de aprendizaje automático, como en este caso,
 
 >La solución es probar un conjunto de algoritmos sobre su problema y ver qué funciona mejor esto le dará una idea del tipo general de algoritmos que funcionan bien o estrategias de aprendizaje que pueden ser mejores que el promedio para elegir la estructura oculta en sus datos [2](#c2).
 >- J. Brownlee
-
+De entre los algoritmos mencionados anteriormente podemos ver los tipo de algoritmos como[3]:
+  -   Regresion: en este método lo que se espera es un número, no lo ubica en un grupo, sino
+      que devuelve un valor específico.
+  -   Bayesianos: Este tipo de algoritmos por clasificación están basados en el teorema de Bayes y clasifican cada valor como independiente de cualquier otro. Lo       que permite predecir una clase o categoría en función de un conjunto dado de características, utilizando la probabilidad.
+  -   Agrupacion: Se utilizan en el aprendizaje no supervisado, y sirven para categorizar datos no etiquetados, es decir, datos sin categorías o grupos definidos.
+  -   Redes Neuronales: comprende unidades dispuestas en una serie de capas, cada una de las cuales se conecta a las capas anexas. Las RNA se inspiran en los           sistemas biológicos, como el cerebro, y en cómo procesan la información.
+  -   Reduccion de Dimension: La reducción de dimensión reduce el número de variables que se consideran para encontrar la información exacta requerida.
+  -   Aprendizaje Profundo: Los algoritmos de aprendizaje profundo ejecutan datos a través de varias capas de algoritmos de redes neuronales, las cuales pasan a         una representación simplificada de los datos a la siguiente capa.
 Como se puede apreciar en la [Tabla 1](#t1) se probó la clasificación con el dataset con todos los algoritmos disponibles en weka y se puede apreciar que el algoritmo que clasifica mejor los datos de nuestro dataset es el algoritmo _Random Forest_ con un porcentaje de clasificación correcta del 74.5389 %.
 
 ## 3.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
 
 [2] <a name="c2">J. Brownlee, «How to Use Machine Learning Algorithms in Weka». 15 de julio de 2016. [En línea]. Disponible en: [https://machinelearningmastery.com/use-machine-learning-algorithms-weka/](https://machinelearningmastery.com/use-machine-learning-algorithms-weka/)</a>
+
+[3]	<a name="c2">L. Sandoval Serrano, “Algoritmos de aprendizaje automático para análisis y predicción de datos,” pp. 36–40, 2018.</a>
