@@ -107,7 +107,7 @@ En la [Imagen3] se observa que al trabajar solo con el 80% especialmente en las 
 ## 4.  Analisis con el 20% del Dataset
 En la [Imagen7] se observa que el porcentaje de instancias correctamente clasificadas es mucho menor ya que cuenta con el 68.1647% en comparacion con el 73.7513% del analisis inicial, esto se genera por que se tomo un menor numero de instancias que el original ya que este constaba con 6518 instancias y en la actual solo se tomaron en cuenta 1805. De igual forma el porcentaje de instancias incorrectamente clasificadas es mayor en el analisis del 20% ya que al existir menos datos existe un margen de error mucho mas alto.Con respecto a la matriz de confusion existe un ligero cambio en la clasificacion de las estadisticas pues en el analisis original se clasificaban de la siguiente forma C,A,B,D y en la actual con el 20% de instancias se clasifican asi C,A,D,B por lo que infiere que la clasificacion con estos datos no es muy confiable.  
   ![Imagen7](/imagenes/analisis20_1.png)
-En la [Imagen8] se observa que.
+En la [Imagen8] se observa el producto del analisis de solo el 20% de los datos, en el mapa de calor nos muestra una mayor dispersion en todos los aspectos sin embargo la edad se sigue proyectando como la principal correlacion con todas las demas variables del analisis por lo que se muestra un patron mayormente marcado.
   ![Imagen8](/imagenes/analisi20_2.png)
 En la [Imagen9] se observa que.
   ![Imagen9](/imagenes/ananlisis20_3.png)
