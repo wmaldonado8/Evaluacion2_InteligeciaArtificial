@@ -86,8 +86,11 @@ De entre los algoritmos mencionados anteriormente podemos ver los tipo de algori
   -   Aprendizaje Profundo: Los algoritmos de aprendizaje profundo ejecutan datos a través de varias capas de algoritmos de redes neuronales, las cuales pasan a         una representación simplificada de los datos a la siguiente capa.
 
 Como se puede apreciar en la [Tabla 1](#t1) se probó la clasificación con el dataset con todos los algoritmos disponibles en weka y se puede apreciar que el algoritmo que clasifica mejor los datos de nuestro dataset es el algoritmo _Random Forest_ con un porcentaje de clasificación correcta del 74.5389 %.
-
-## 3.  Bibliografía
+## 3.  Analisis con el 80% del Dataset
+  
+## 4.  Analisis con el 20% del Dataset
+ 
+## 5.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
 
 [2] <a name="c2">J. Brownlee, «How to Use Machine Learning Algorithms in Weka». 15 de julio de 2016. [En línea]. Disponible en: [https://machinelearningmastery.com/use-machine-learning-algorithms-weka/](https://machinelearningmastery.com/use-machine-learning-algorithms-weka/)</a>
