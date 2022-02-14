@@ -99,7 +99,7 @@ En la [Imagen2] se observa que al trabajar solo con el 80% se ve una baja en la 
   ![Imagen3](/imagenes/analisis3.png)
   
   
-En la [Imagen2] se observa que al trabajar solo con el 80% especialmente en las variables de grasa_corporal, fuerza de agarre, longitud de sentarse y conteo de saltos se muestra una correlacion bastante fuerte indicandonos que:
+En la [Imagen3] se observa que al trabajar solo con el 80% especialmente en las variables de grasa_corporal, fuerza de agarre, longitud de sentarse y conteo de saltos se muestra una correlacion bastante fuerte indicandonos que:
   - a mayor edad, mayor grasa corporal
   - existe mucha mayor agrupacion de resultados de la fuerza del agarre de acuerdo a su edad
   - de acuerdo a la edad la mayor distancia alcanzada es alcanzada  a menor edad
