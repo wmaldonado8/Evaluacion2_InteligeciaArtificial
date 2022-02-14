@@ -109,7 +109,7 @@ En la [Imagen7] se observa que el porcentaje de instancias correctamente clasifi
   ![Imagen7](/imagenes/analisis20_1.png)
 En la [Imagen8] se observa el producto del analisis de solo el 20% de los datos, en el mapa de calor nos muestra una mayor dispersion en todos los aspectos sin embargo la edad se sigue proyectando como la principal correlacion con todas las demas variables del analisis por lo que se muestra un patron mayormente marcado.
   ![Imagen8](/imagenes/analisi20_2.png)
-En la [Imagen9] se observa que.
+En la [Imagen9] de igual forma se muestra el mapa de calor de las variable salto de loguitus y como esta influye en la clasificacion en correlacion con las demas variables, se puede observar que tambien existe cierto grado de dispersion pero el grado de clasificacion sigue siendo significativo.
   ![Imagen9](/imagenes/ananlisis20_3.png)
  
 ## 5.  Bibliografía
