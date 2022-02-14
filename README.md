@@ -87,7 +87,7 @@ De entre los algoritmos mencionados anteriormente podemos ver los tipo de algori
 
 Como se puede apreciar en la [Tabla 1](#t1) se probó la clasificación con el dataset con todos los algoritmos disponibles en weka y se puede apreciar que el algoritmo que clasifica mejor los datos de nuestro dataset es el algoritmo _Random Forest_ con un porcentaje de clasificación correcta del 74.5389 %.
 ## 3.  Analisis con el 80% del Dataset
-  ![ScreenShot](/home/santiago/Imágenes/analisis1.png)
+  ![ScreenShot](/imagenes/latest.png)
   
 ## 4.  Analisis con el 20% del Dataset
  
