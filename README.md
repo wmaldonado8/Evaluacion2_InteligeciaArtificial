@@ -105,6 +105,12 @@ En la [Imagen3] se observa que al trabajar solo con el 80% especialmente en las 
   - de acuerdo a la edad la mayor distancia alcanzada es alcanzada  a menor edad
   - existe una relacion negativa en las actividades de acostarse_levantarse y saltos de longitud indicandonos que a menor edad mejores resultados
 ## 4.  Analisis con el 20% del Dataset
+En la [Imagen7] se observa que.
+  ![Imagen7](/imagenes/analisis20_1.png)
+En la [Imagen8] se observa que.
+  ![Imagen8](/imagenes/analisi20_2.png)
+En la [Imagen9] se observa que.
+  ![Imagen9](/imagenes/ananlisis20_3.png)
  
 ## 5.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
