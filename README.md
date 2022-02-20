@@ -114,7 +114,7 @@ En la [Imagen9] de igual forma se muestra el mapa de calor de la variable salto 
   
 ## 5.  Predicciones
   
-En la [Imagen1] se observa el test de predicciones en donde nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones.
+En la [Imagen1] se observa el test de predicciones en donde solo se toma en cuenta la variable class y nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones.
   ![Imagen1](/imagenes/prediccion_class.jpeg)
   
 En la [Imagen2] se muestra el resumen de la evaluacion del test entre los que destacan estan la correcta clasificacion de instancias en donde se analizan 1973 que corresponde al 74.5091%, tambien nos muestra las instancias que fueron clasificadas incorrectamente las cuales son el 675 instancias y representan el 25.4909%.Tambien nos muestra el porcentaje del error relativo absoluto que en este analisis alcanzo el 53.472%.
