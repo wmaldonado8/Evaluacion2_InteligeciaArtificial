@@ -114,35 +114,37 @@ En la [Imagen9] de igual forma se muestra el mapa de calor de la variable salto 
   
 ## 5.  Predicciones
   
-En la [Imagen1] se observa
+En la [Imagen1] se observa el test de predicciones en donde nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones.
   ![Imagen1](/imagenes/prediccion_class.jpeg)
   
-En la [Imagen2] se observa
+En la [Imagen2] se muestra el resumen de la evaluacion del test entre los que destacan estan la correcta clasificacion de instancias en donde se analizan 1973 que corresponde al 74.5091%, tambien nos muestra las instancias que fueron clasificadas incorrectamente las cuales son el 675 instancias y representan el 25.4909%.Tambien nos muestra el porcentaje del error relativo absoluto que en este analisis alcanzo el 53.472%.
+-Ademas de eso nos muestra precisión detallada de todas las clases
+-En cuanto a la matriz de confusion se puede observar que en la diagonal principal se encuentran los valores mas altos por lo que se puede concluir que los datos estan siendo bien clasificados.
   ![Imagen2](/imagenes/matrizPredicciom_class.jpeg)  
   
-En la [Imagen3] se observa
+En la [Imagen3] se observa el test de predicciones para la variable body fat(grasa corporal) en donde igualmente nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones
   ![Imagen3](/imagenes/prediccionBF.jpeg)  
 
-En la [Imagen4] se observa
+En la [Imagen4] nos muestra un resumen con los resultados que se obtuvieron de la evaluacion en donde se analizaron 2648 instancias y nos presentan algunos valores como el valor de el porcentaje de correlacion que en este caso es del 0.84,el error relativo absoluto que representa el 51.3957%.   
   ![Imagen4](/imagenes/matrizBF.jpeg)  
   
-En la [Imagen5] se observa
+En la [Imagen5] se observa el test de predicciones para la variable weight(peso) en donde igualmente nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones
   ![Imagen5](/imagenes/prediccionPeso.jpeg)  
 
 En la [Imagen6] se observa
   ![Imagen6](/imagenes/matrizPeso.jpeg)    
 
+En la [Imagen5] se observa
+  ![Imagen5](/imagenes/prediccionPeso.jpeg)  
+
+En la [Imagen6] se observa
+  ![Imagen6](/imagenes/matrizPeso.jpeg)  
+  
 En la [Imagen7] se observa
-  ![Imagen7](/imagenes/prediccionPeso.jpeg)  
+  ![Imagen7](/imagenes/grasa_visualize_error.jpeg)  
 
 En la [Imagen8] se observa
-  ![Imagen8](/imagenes/matrizPeso.jpeg)  
-  
-En la [Imagen9] se observa
-  ![Imagen9](/imagenes/grasa_visualize_error.jpeg)  
-
-En la [Imagen10] se observa
-  ![Imagen10](/imagenes/peso_visualize_error.jpeg)  
+  ![Imagen8](/imagenes/peso_visualize_error.jpeg)  
   
 ## 6.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
