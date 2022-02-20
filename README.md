@@ -114,6 +114,30 @@ En la [Imagen9] de igual forma se muestra el mapa de calor de la variable salto 
   
 ## 5.  Predicciones
   
+En la [Imagen1] se observa
+  ![Imagen1](/imagenes/prediccion_class.jpeg)
+  
+En la [Imagen2] se observa
+  ![Imagen2](/imagenes/matrizPredicciom_class.jpeg)  
+  
+En la [Imagen3] se observa
+  ![Imagen3](/imagenes/prediccionBF.jpeg)  
+
+En la [Imagen4] se observa
+  ![Imagen4](/imagenes/matrizBF.jpeg)  
+  
+En la [Imagen5] se observa
+  ![Imagen5](/imagenes/prediccionPeso.jpeg)  
+
+En la [Imagen6] se observa
+  ![Imagen6](/imagenes/matrizPeso.jpeg)    
+ 
+En la [Imagen7] se observa
+  ![Imagen7](/imagenes/grasa_visualize_error.png)    
+
+En la [Imagen8] se observa
+  ![Imagen8](/imagenes/peso_visualize_error.png)    
+  
 ## 6.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
 
