@@ -111,8 +111,10 @@ En la [Imagen8] se observa el producto del analisis de solo el 20% de los datos,
   ![Imagen8](/imagenes/analisi20_2.png)
 En la [Imagen9] de igual forma se muestra el mapa de calor de la variable salto de loguitud y como esta influye en la clasificacion en correlacion con las demas variables, se puede observar que tambien existe cierto grado de dispersion pero el grado de clasificacion sigue siendo significativo.
   ![Imagen9](/imagenes/ananlisis20_3.png)
- 
-## 5.  Bibliografía
+  
+## 5.  Predicciones
+  
+## 6.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
 
 [2] <a name="c2">J. Brownlee, «How to Use Machine Learning Algorithms in Weka». 15 de julio de 2016. [En línea]. Disponible en: [https://machinelearningmastery.com/use-machine-learning-algorithms-weka/](https://machinelearningmastery.com/use-machine-learning-algorithms-weka/)</a>
