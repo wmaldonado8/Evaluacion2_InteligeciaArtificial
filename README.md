@@ -146,7 +146,12 @@ En la [Imagen7] se observa
 En la [Imagen8] se observa
   ![Imagen8](/imagenes/peso_visualize_error.jpeg)  
   
-## 6.  Bibliografía
+## 6.  Conclusiones
+  Tras la realizacion del presente trabajo se puede concluir que
+  - 
+  -
+  -
+## 7.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
 
 [2] <a name="c2">J. Brownlee, «How to Use Machine Learning Algorithms in Weka». 15 de julio de 2016. [En línea]. Disponible en: [https://machinelearningmastery.com/use-machine-learning-algorithms-weka/](https://machinelearningmastery.com/use-machine-learning-algorithms-weka/)</a>
